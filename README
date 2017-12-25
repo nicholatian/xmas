@@ -1,0 +1,9 @@
+
+XMAS
+A Linux program for wishing you a Merry Christmas.
+
+
+
+C89 compliant, should compile anywhere with standard I/O.
+
+    cc xmas.c -o xmas
